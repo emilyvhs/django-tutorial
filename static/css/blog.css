@@ -1,0 +1,25 @@
+body {
+    margin: 1rem;
+    color: grey;
+    background-color: ghostwhite
+}
+
+h1 a {
+    color: pink;
+}
+
+h2 a {
+    color: paleturquoise;
+}
+
+article {
+    border: 2px dashed pink;
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+time {
+    font-size: small;
+    font-weight: bold;
+}
+
